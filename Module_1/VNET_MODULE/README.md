@@ -1,0 +1,1 @@
+The main.tf in Module_1 were for testing it in the root folder itself first before I made another folder for testing. 
